@@ -1,0 +1,20 @@
+repo_name: assistaplus/assp-docker-reverse-proxy
+report_id: c7eefa4c6f7573a3dbb3d9d550ee569c
+version: 0.1
+repo_type: Public
+timestamp: '2024-05-06T13:37:01+00:00'
+requested_by: luisaveiro
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/assistaplus/assp-docker-reverse-proxy
+  detection_source: Repo Metadata
